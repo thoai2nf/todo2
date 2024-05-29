@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Task 1",
+    "status": "todo",
+    "timestamp": "2024-05-01T10:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Task 2",
+    "status": "in-progress",
+    "timestamp": "2024-05-01T11:00:00"
+  },
+  {
+    "id": 3,
+    "title": "Task 3",
+    "status": "completed",
+    "timestamp": "2024-05-01T12:00:00"
+  }
+]
